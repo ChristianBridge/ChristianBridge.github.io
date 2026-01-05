@@ -1,5 +1,5 @@
 # Christian Bridge - Data Scientist
-![Profile Picture](assets/profile_photo.jpg)
+![Profile Picture](assets/profile_photo.png)
 
 ### Education
 - M.S. Data Science - University of North Texas (_May 2025_)

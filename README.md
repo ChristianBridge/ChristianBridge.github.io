@@ -16,7 +16,7 @@
 - Created a RAG‑LLM for the College of Information Data Science Advising Office using locally hosted Meta Llama 3.3‑70b, Hugging Face BAAI/bge‑m3 embedding model, ChromaDB vector storage, and Streamlit UI.
 - Evaluated the model with human evaluation metrics and AI metrics resulting in fluency (4.86/5), coherence(4.80/5), relevance (4.42/5), factuality (3.88/5) BERTScore (0.74) and semantic similarity (0.84).
 - [Project Repository](https://github.com/ChristianBridge/College_of_Information_Chatbot.git)
-- [Presentation](/assets/Final Project Presentation.pptx)
+- [Presentation](https://github.com/ChristianBridge/ChristianBridge.github.io/blob/559b09f337e8856ffb2546b51196529605684f69/assets/Final%20Project%20Presentation.pptx)
 - [Research Paper](/assets/GenAI_Powered_College_Advisor.pdf)
 
 **CNN with LSTM for Image Captioning Flickr 8k**
@@ -28,13 +28,13 @@
 - Created a personal food storage database using MySQL which stored customer information, pantry items, food nutritional informaiton, and recipes.
 - Documented the database entity-relationship diargram, business rules, data dictionary.
 - Wrote SQL to create tables, insert records, and query the database.
-- [Documentation](/assets/Pantry - Final Submission.docx)
+- [Documentation](https://github.com/ChristianBridge/ChristianBridge.github.io/blob/559b09f337e8856ffb2546b51196529605684f69/assets/Pantry%20-%20Final%20Submission.docx)
 
 **Project Aii - Integration of Zero Trust Architecture & AI**
 - Detailed a use-case for the University of North Texas to integrate Zero Trust Architecture (ZTA), multi-factor authentication, and AI.
 - Discuss use-case of adaptive MFA by assigning risk score to users based on metrics such as IP address, location, and database access.
-- [Documentation](assets/Project-Aii Zero Trust & AI Integration.docx)
-- [Presentation](assets/PeopleSoft, Duo, & You.pptx)
+- [Documentation](https://github.com/ChristianBridge/ChristianBridge.github.io/blob/559b09f337e8856ffb2546b51196529605684f69/assets/Project-Aii%20Zero%20Trust%20%26%20AI%20Integration.docx)
+- [Presentation](https://github.com/ChristianBridge/ChristianBridge.github.io/blob/559b09f337e8856ffb2546b51196529605684f69/assets/PeopleSoft%2C%20Duo%2C%20%26%20You.pptx)
 
 **
 

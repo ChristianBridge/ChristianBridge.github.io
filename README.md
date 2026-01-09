@@ -15,13 +15,14 @@
 **College of Information Advising Chatbot**
 - Created a RAG‑LLM for the College of Information Data Science Advising Office using locally hosted Meta Llama 3.3‑70b, Hugging Face BAAI/bge‑m3 embedding model, ChromaDB vector storage, and Streamlit UI.
 - Evaluated the model with human evaluation metrics and AI metrics resulting in fluency (4.86/5), coherence(4.80/5), relevance (4.42/5), factuality (3.88/5) BERTScore (0.74) and semantic similarity (0.84).
+- [Project Repository](https://github.com/ChristianBridge/College_of_Information_Chatbot.git)
 - [Presentation](/assets/Final Project Presentation.pptx)
 - [Research Paper](/assets/GenAI_Powered_College_Advisor.pdf)
 
 **CNN with LSTM for Image Captioning Flickr 8k**
 - Used TensorFlow, Keras, and ResNet50 to create the CNN & LSTM architecture.
 - Evaluated the model using loss and accuracy of the human annotated captions and the predicted captions, validation model accuracy was near 40%.
-- [Program Code](https://github.com/ChristianBridge/Flickr8k_Image_Caption_Generation/tree/65b446a96358debae1a6e91d1306789c2c8d1061)
+- [Program Repository](https://github.com/ChristianBridge/Flickr8k_Image_Caption_Generation/tree/65b446a96358debae1a6e91d1306789c2c8d1061)
 
 **Pantry - A Personal Food Database**
 - Created a personal food storage database using MySQL which stored customer information, pantry items, food nutritional informaiton, and recipes.

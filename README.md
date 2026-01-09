@@ -21,6 +21,7 @@
 **CNN with LSTM for Image Captioning Flickr 8k**
 - Used TensorFlow, Keras, and ResNet50 to create the CNN & LSTM architecture.
 - Evaluated the model using loss and accuracy of the human annotated captions and the predicted captions, validation model accuracy was near 40%.
+- [Program Code](https://github.com/ChristianBridge/Flickr8k_Image_Caption_Generation/tree/65b446a96358debae1a6e91d1306789c2c8d1061)
 
 **Pantry - A Personal Food Database**
 - Created a personal food storage database using MySQL which stored customer information, pantry items, food nutritional informaiton, and recipes.

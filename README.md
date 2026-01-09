@@ -2,8 +2,14 @@
 ![Profile Picture](/assets/profile_photo.png)
 
 ### Education
-- M.S. Data Science - University of North Texas (_May 2025_)
-- B.A. Psychology - University of North Texas (_December 2016_)
+- M.S. Data Science - University of North Texas (UNT) (_May 2025_)
+- B.A. Psychology - UNT (_December 2016_)
+
+### Skills
+ - Languages: Python, PL/SQL, MySQL, XML
+ - Libraries/Tools: Pandas, Numpy, MatPlotLib, Scikit-learn, TensorFlow, Keras, LlamaIndex, HuggingFace, Streamlit
+ - Reporting: BI Publisher, SAP Crystal Reports, Power BI
+ - Databases: Oracle Peoplesoft, T2Flex, ChromaDB
 
 ### Projects
 **College of Information Advising Chatbot**
@@ -28,11 +34,29 @@
 - [Documentation](assets/Project-Aii Zero Trust & AI Integration.docx)
 - [Presentation](assets/PeopleSoft, Duo, & You.pptx)
 
-### Work Experience
-**Application Support Analyst @ University of North Texas (_October 2022 - Present_)**
-- FAFSA/TASFA Overhaul
-- Cost of Attendance e-mail
+**
 
-**Data Analyst @ University of North Texas (_January 2020 - October 2022_)**
-- KPIs Dashboard
-- Database administration
+### Work Experience
+**Application Support Analyst @ University of North Texas (UNT) - Enterprise Systems (_October 2022 - Present_)**
+- Automated key student outreach and financial aid notification workflows using PL/SQL, PeopleSoft, and BI Publisher, supporting personalized communications for 40,000+ students annually.
+- Developed and optimized data queries and XML‑based templates for dynamic cost‑of‑attendance notifications and checklist assignments, eliminating manual generation and reducing processing time.
+- Engineered workflow automation for FAFSA and ISIR processing, integrating checklist assignment, removal, and email notifications to improve student responsiveness and facilitate student action.
+- Collaborated with leadership to design and deploy system enhancements, improving operational efficiency through automation and real‑time student communication.
+- Streamlined batch scheduling in AppWorx through process documentation, reducing downtime and enhancing cross‑team coordination.
+- Assisted with QA testing for PeopleSoft Release Patchsets (PRPs), identifying and escalating bugs to maintain business continuity and program functionality.
+
+**Data Analyst @ UNT - Transportation Services (_January 2020 - October 2022_)**
+- Administered T2Flex, Flexport, and inContact systems, overseeing integration, uptime, and data management for 40,000+ students and 5,000+ staff across UNT campuses.
+- Designed and automated Python‑based ETL pipelines, reducing manual processing by 5+ hours/week and increasing data quality for student analytics and permissions.
+- Developed and maintained PL/SQL queries and Power BI dashboards to track KPIs and support strategic decisions across transportation and parking operations.
+- Created and scheduled dynamic communications (permits, citations, letters, emails) using SAP Crystal Reports, streamlining customer service workflows.
+- Conducted cross‑system data analysis (Lyft, DCTA, Parkmobile, T2Flex, inContact), producing insights that optimized vendor contract decisions and service allocations.
+- Managed and mentored a student employee in SQL, data visualization, and reporting best practices, enabling independent delivery of analytics projects.
+
+**Admin Specialist @ UNT - Transportation Services (_August 2017 - January 2020_)**
+- Generated executive‑level reports using PL/SQL and Crystal Reports, analyzing over $3M in permit revenue and $1M in citation fines to inform budgeting and operations.
+- Supported enterprise parking system (T2Flex) and IoT hardware (PARCS, Smartmeters), collaborating with IT to maintain uptime and resolve crosscampus technical issues.
+- Configured and tracked 100+ permit types across UNT campuses, reducing unsold inventory by 25% and optimizing online/in‑person sales ratios.
+- Coordinated logistics and billing for 700+ campus events annually, contributing to $300K+ in yearly event revenue and ensuring smooth transportation services.
+
+### Professional References Available Upon Request

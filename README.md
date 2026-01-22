@@ -1,5 +1,6 @@
 # Data Scientist
 https://christianbridge.github.io/
+
 ![Profile Picture](/assets/profile_photo.png)
 
 ### Education

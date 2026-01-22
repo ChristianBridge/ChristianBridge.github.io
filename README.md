@@ -1,4 +1,5 @@
 # Data Scientist
+https://christianbridge.github.io/
 ![Profile Picture](/assets/profile_photo.png)
 
 ### Education
@@ -36,7 +37,6 @@
 - [Documentation](https://github.com/ChristianBridge/ChristianBridge.github.io/blob/559b09f337e8856ffb2546b51196529605684f69/assets/Project-Aii%20Zero%20Trust%20%26%20AI%20Integration.docx)
 - [Presentation](https://github.com/ChristianBridge/ChristianBridge.github.io/blob/559b09f337e8856ffb2546b51196529605684f69/assets/PeopleSoft%2C%20Duo%2C%20%26%20You.pptx)
 
-**
 
 ### Work Experience
 **Application Support Analyst @ University of North Texas (UNT) - Enterprise Systems (_October 2022 - Present_)**
